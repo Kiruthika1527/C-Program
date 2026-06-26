@@ -89,4 +89,4 @@ An ESP32-based IoT weather station that monitors temperature, humidity, rainfall
 
 #  Author
 Kiruthika Ravichandran  
-BE Computer Science Engineering  
+BE Computer Science and Engineering  
